@@ -1,3 +1,5 @@
 # wechat-api
 
-gin框架
+- [gin](https://github.com/gin-gonic/gin)
+- [sqlx](http://jmoiron.github.io/sqlx/)
+- [redigo](https://github.com/gomodule/redigo)
